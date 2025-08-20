@@ -54,14 +54,8 @@ Player 2 rolls again: 3
 Player 2's score: 9
 ...
 Player 1 wins!
-💡 Future Improvements
-Add single-player mode (vs computer).
-
-Create a GUI version with Tkinter or Pygame.
-
-Add difficulty levels.
 
 📜 License
 This project is licensed under the MIT License – feel free to use, modify, and share!
 
-👨‍💻 Author: [Your Name]
+👨‍💻 Author: [Mashal Arshad]
